@@ -1,2 +1,2 @@
 # freecodecamp-front-end
-frond end codes of freecodecmp
+frond end codes of freecodecamp
